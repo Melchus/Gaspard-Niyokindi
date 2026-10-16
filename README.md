@@ -46,7 +46,6 @@ When I'm not learning about networking or cybersecurity, I enjoy playing and wat
 
 📫 How to Reach Me
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: gaspard-niyokindi
 
-Email: Add your professional email address here.
-
+Email: niyokindigaspard@gmail.com
