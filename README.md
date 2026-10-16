@@ -1,6 +1,6 @@
 Hi there, I'm Gaspard Niyokindi! 👋
 
-I'm an aspiring Network Engineer and Cybersecurity enthusiast with a strong interest in Governance, Risk, and Compliance (GRC). I am studying at the University of Ottawa and continuously developing my technical skills in networking, cybersecurity, and IT risk management. I'm passionate about learning through hands-on projects, exploring new technologies, and building practical experience in the IT field.
+I'm an aspiring Network Engineer and Cybersecurity enthusiast with a strong interest in Governance, Risk, and Compliance (GRC). I studied  at the University of Ottawa and continuously developing my technical skills in networking, cybersecurity, and IT risk management. I'm passionate about learning through hands-on projects, exploring new technologies, and building practical experience in the IT field.
 
 📍 Location: Ottawa, Canada 🇨🇦
 
